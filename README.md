@@ -1,12 +1,13 @@
 # Hi, I'm Tunahan 👋
 
-Software Engineer with 3+ years of experience in Android,
-debugging, monitoring, automation, and root-cause analysis.
+Software Engineer with 3+ years of experience in software development,
+production debugging, monitoring, automation, and system-level troubleshooting.
 
-My background includes ADB-based diagnostics, Python & Bash scripting,
-Git workflows, Ubuntu/Linux, and release automation.
+I work with Android development, log analysis, ADB-based diagnostics,
+Python & Bash scripting, Git workflows, Linux/Ubuntu environments,
+release automation, and root-cause analysis of production issues.
 
-Currently building deeper expertise in **Platform Engineering, SRE,
+I'm currently building deeper expertise in **Platform Engineering, SRE,
 Cloud Infrastructure, and AI Platform Engineering**.
 
 Check out my projects below 👇
