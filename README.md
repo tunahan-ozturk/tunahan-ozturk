@@ -13,7 +13,6 @@ Cloud Infrastructure, SRE, and AI Platform Engineering.
 ---
 
 ## 💻 Professional Experience
-## 💻 Professional Experience
 
 ### 📱 Android & Android TV Engineering
 
