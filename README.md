@@ -4,11 +4,11 @@ Software Engineer with 3+ years of professional experience in software
 development, production debugging, system integration, and root-cause analysis.
 
 My experience includes Android application development, Android TV platform
-development, production bug fixing, build and release workflows, and
-engineering automation.
+development, production bug fixing, scripting, release automation, and
+engineering workflows.
 
-I'm currently expanding my engineering focus toward Platform Engineering,
-Cloud Infrastructure, SRE, and AI Platform Engineering.
+I'm currently expanding my engineering focus toward **Platform Engineering,
+Cloud Infrastructure, SRE, and AI Platform Engineering**.
 
 ---
 
@@ -36,11 +36,13 @@ Cloud Infrastructure, SRE, and AI Platform Engineering.
 - Build and release troubleshooting
 - Automation of repetitive engineering workflows
 
-### 🔧 Technical Background
+---
+
+## 🔧 Technical Background
 
 **Languages & Scripting**
 
-Java • Kotlin • Python • Bash
+Java • Kotlin • Python • JavaScript • Bash
 
 **Android & Platform**
 
@@ -56,18 +58,15 @@ Git • Ubuntu/Linux • Bash Scripting • Python Scripting • Release Automat
 
 I'm currently building deeper expertise in:
 
-- RHEL / Linux administration
-- Linux internals and troubleshooting
+- RHEL and Linux internals
+- Linux administration and troubleshooting
 - Computer networking
 - Distributed systems
-- Containers
-- Kubernetes
-- Infrastructure as Code
-- Terraform
+- Containers and Kubernetes
+- Infrastructure as Code with Terraform
 - Cloud infrastructure
-- Prometheus & Grafana
-- OpenTelemetry
-- SRE practices
+- Prometheus, Grafana, Loki and OpenTelemetry
+- SRE practices and incident response
 - Platform Engineering
 - AI infrastructure and AI Platform Engineering
 
@@ -75,31 +74,31 @@ I'm currently building deeper expertise in:
 
 ## 🧠 Engineering Mindset
 
-A large part of my professional experience has been centered around
-understanding why systems fail.
+A significant part of my professional experience has been centered around
+understanding why software systems fail and identifying their root causes.
 
 My troubleshooting approach:
 
 **Symptom → Hypothesis → Evidence → Root Cause → Fix → Verification → Prevention**
 
-I apply the same approach to my Platform Engineering labs by intentionally
-creating failures and investigating them using logs, metrics, traces,
-network tools, and operating-system-level diagnostics.
+I'm now extending this mindset from application and Android TV systems into
+Linux, networking, distributed systems, cloud infrastructure, Kubernetes,
+observability, and AI platforms.
 
 ---
 
-## 🧪 Platform Engineering Labs
+## 🧪 Engineering Labs
 
 ### 🐧 RHEL / Linux Labs
 
 Hands-on Linux administration and production-style troubleshooting.
 
-Topics include:
+**Focus areas:**
 
-- systemd & journald
-- processes
-- users & permissions
-- storage & LVM
+- systemd and journald
+- processes and resource management
+- users and permissions
+- storage and LVM
 - networking
 - SELinux
 - firewalld
@@ -107,7 +106,7 @@ Topics include:
 
 ### ☸️ Kubernetes Platform Lab
 
-Production-oriented Kubernetes experiments including:
+Production-oriented Kubernetes experiments focused on:
 
 - workload management
 - networking
@@ -120,29 +119,29 @@ Production-oriented Kubernetes experiments including:
 
 ### 📊 Observability & SRE Lab
 
-Building observable systems with:
+Building observable systems using:
 
 - Prometheus
 - Grafana
 - Loki
 - OpenTelemetry
-- metrics, logs & traces
+- metrics, logs, and traces
 - SLI / SLO
 - alerting
-- incident response
+- incident response and postmortems
 
 ### 🤖 AI Platform Lab
 
-My long-term capstone project focused on operating AI workloads reliably.
+Long-term capstone project focused on operating AI workloads reliably.
 
-Areas include:
+Planned areas include:
 
 - Kubernetes-based AI workloads
 - inference services
 - API gateways
 - autoscaling
 - observability
-- authentication & authorization
+- authentication and authorization
 - rate limiting
 - CI/CD
 - Infrastructure as Code
@@ -150,38 +149,18 @@ Areas include:
 
 ---
 
-## 🛠 Technologies
-
-**Software Development**
-
-Android • Java • Kotlin • Git • Linux
-
-**Platform & Infrastructure**
-
-RHEL • Docker/Podman • Kubernetes • Terraform • Ansible
-
-**Observability**
-
-Prometheus • Grafana • OpenTelemetry • Loki
-
-**Engineering & Delivery**
-
-Git • Gerrit • CI/CD • Build & Release Workflows • Automation
-
----
-
 ## 📚 Current Learning Path
 
-RHEL & Linux
-→ Networking
-→ Containers
-→ Kubernetes
-→ Observability
-→ Cloud & Infrastructure as Code
-→ AI Platform Engineering
+**RHEL & Linux**
+→ **Networking**
+→ **Containers**
+→ **Kubernetes**
+→ **Observability**
+→ **Cloud & Infrastructure as Code**
+→ **AI Platform Engineering**
 
 ---
 
 ## 🔬 Engineering Principle
 
-> Build → Break → Diagnose → Fix → Document
+> **Build → Break → Diagnose → Fix → Document**
