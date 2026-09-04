@@ -12,37 +12,44 @@ Cloud Infrastructure, SRE, and AI Platform Engineering.
 
 ---
 
-## 💻 Professional Engineering Experience
+## 💻 Professional Experience
+## 💻 Professional Experience
 
-### Android & Application Development
+### 📱 Android & Android TV Engineering
 
 - Android application development and maintenance
-- Feature development and integration
-- Debugging application and framework-level issues
-- Working with existing large-scale codebases
-- Integration and regression analysis
+- Android TV platform development and integration
+- Production bug fixing and root-cause analysis
+- Application and platform-level debugging
+- Log analysis and issue investigation
+- ADB-based debugging, diagnostics, and scripting
+- Investigation of issues across multiple software components
+- Regression analysis and verification
 
-### 📺 Android TV / Platform Development
+### ⚙️ Automation & Engineering Workflows
 
-- Development and debugging on Android TV platforms
-- Production bug investigation and root-cause analysis
-- Application and platform-level issue resolution
-- Log analysis and system behavior investigation
-- Working across application, framework, and platform boundaries
-- Debugging issues involving multiple software components
+- Python scripting for engineering and automation tasks
+- Bash scripting
+- ADB-based diagnostic and debugging automation
+- Release automation
+- Git-based development and version-control workflows
+- Linux/Ubuntu-based development environments
+- Build and release troubleshooting
+- Automation of repetitive engineering workflows
 
-### 🔧 DevOps & Engineering Workflows
+### 🔧 Technical Background
 
-Experience working with engineering and delivery workflows including:
+**Languages & Scripting**
 
-- Git-based development workflows
-- Code review and Gerrit
-- CI/CD and build pipelines
-- Release and integration workflows
-- Linux-based development environments
-- Build and deployment troubleshooting
-- Automation of repetitive engineering tasks
-- AI-assisted development and engineering workflows
+Java • Kotlin • Python • Bash
+
+**Android & Platform**
+
+Android • Android TV • ADB • Log Analysis • System Debugging
+
+**Development & Automation**
+
+Git • Ubuntu/Linux • Bash Scripting • Python Scripting • Release Automation
 
 ---
 
