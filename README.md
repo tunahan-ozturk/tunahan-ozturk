@@ -1,6 +1,6 @@
 # Hi, I'm Tunahan 👋
 
-Software Specialist with 3+ years of professional experience in software
+Software Engineer with 3+ years of professional experience in software
 development, production debugging, system integration, and root-cause analysis.
 
 My experience includes Android application development, Android TV platform
